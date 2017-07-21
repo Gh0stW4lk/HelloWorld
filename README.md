@@ -1,2 +1,6 @@
 # HelloWorld
-Just a joke!
+#include <stdio.h>
+
+int main() {
+  printf("Hello, World！");
+}
